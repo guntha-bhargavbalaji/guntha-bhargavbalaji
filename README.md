@@ -15,8 +15,8 @@ Hey there! I am Bhargav Balaji, I am an MTech CSE Student at KL University(2023-
 <h2 style="font-family: sans-serif;">Connect with Me</h2>
 <ul>
     <li>Email :<a href="https://2301050207cse@gmail.com">2301050207cse@gmail.com</a></li>
-    <li>Linkedin :<a href="https://www.linkedin.com/in/guntha-bhargav-balaji">www.linkedin.com/in/guntha-bhargav-balaji</a></li>
-    <li>GitHub : <a href=""></a></li>
+    <li>Linkedin :<a href="https://www.linkedin.com/in/guntha-bhargavbalaji">www.linkedin.com/in/guntha-bhargavbalaji</a></li>
+    <li>GitHub : <a href="https://github.com/guntha-bhargavbalaji">guntha-bhargavbalaji</a></li>
 </ul>
 <h2 style="font-family: sans-serif;">Feedback Welcome:</h2>
 <ul>
